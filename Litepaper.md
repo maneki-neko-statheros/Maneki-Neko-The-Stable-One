@@ -1,15 +1,15 @@
 # Index for Light Paper
 
-1. [Executive Summary](#executive-summary)  
+1. [Executive Summary](#1-executive-summary)  
    - Brief overview of the RWA vault strategy and its value proposition.  
    - Introduction to the custom stablecoin backed by RWA assets and its benefits.
 
-2. [Introduction](#introduction)  
+2. [Introduction](#2-introduction)  
    - Explanation of Real-World Assets (RWAs) and their integration into DeFi.  
    - The role of the RWA vault in generating stable returns for investors.  
    - Overview of the custom stablecoin as a dual-yield opportunity.
 
-3. [How the Vault Works](#how-the-vault-works)  
+3. [How the Vault Works](#3-how-the-vault-works)  
    - Overview of the vault’s mechanism:  
      - Accepting deposits of RWA-backed tokens (e.g., PaxGold, tokenized real estate).  
      - Minting a custom stablecoin as collateralized by vault assets.  
@@ -17,7 +17,7 @@
      - RWA-backed yield (e.g., from DeFi strategies).  
      - Stablecoin deployment into DeFi protocols and strategies for additional returns.
 
-4. [ROI Analysis for Investors](#roi-analysis-for-investors)  
+4. [ROI Analysis for Investors](#4-roi-analysis-for-investors)  
    - Example scenarios for potential returns:  
      - **Passive Holding**: Yield from vault-backed RWA returns.  
      - **Minting Stablecoins**: Returns from stablecoin deployment in DeFi.  
@@ -26,7 +26,7 @@
      - Stable and dual-yield opportunities.  
      - Competitive fee structure ensuring higher net ROI.
 
-5. [Utility Token for DAO Governance](#utility-token-for-dao-governance)  
+5. [Utility Token for DAO Governance](#5-utility-token-for-dao-governance)  
    - Overview of Governance Token:  
      - The governance token empowers holders to participate in vault decisions, including asset allocations, stablecoin strategies, and budget approvals.  
    - Utility of the Governance Token:  
@@ -37,10 +37,10 @@
      - **Voting Power Formula**: Voting power scales as √(Governance Token Holdings) * RP.  
      - Balances influence to prevent whales from dominating decisions while rewarding active participants.
 
-6. [Partnerships and Integrations](#partnerships-and-integrations)  
+6. [Partnerships and Integrations](#6-partnerships-and-integrations)  
    - **RWA Token Providers**:  
-     - Paxos (PAXG), Novem Gold Token (NNN), Tether Gold (XAUT)
-     - In the Future: RealT: Tokenized real estate. 
+     - Paxos (PAXG), Novem Gold Token (NNN), Tether Gold (XAUT)  
+     - In the Future: RealT: Tokenized real estate.  
    - **DeFi Integration Platforms**:  
      - Curve Finance: Liquidity pools for stablecoin pairs.  
      - Aave: Lending pools for stablecoins.  
@@ -50,24 +50,24 @@
      - Centrifuge: Tokenizing additional RWAs (e.g., real estate, invoices).  
      - Goldfinch: Providing credit-based lending using RWAs.
 
-7. [Yield Generation and Scaling Strategies](#yield-generation-and-scaling-strategies)  
+7. [Yield Generation and Scaling Strategies](#7-yield-generation-and-scaling-strategies)  
    - Deployment of stablecoins into high-yield DeFi protocols (5%–15% APY).  
    - Treasury optimization through yield farming automation.  
    - Incentivizing liquidity providers for stablecoin adoption.
 
-8. [Ecosystem Growth and Long-Term Vision](#ecosystem-growth-and-long-term-vision)  
+8. [Ecosystem Growth and Long-Term Vision](#8-ecosystem-growth-and-long-term-vision)  
    - Promoting stablecoin adoption through AMM and DeFi platforms (e.g., Uniswap, 1inch).  
    - Expanding partnerships with RWA issuers to diversify vault assets.  
    - Introducing advanced governance mechanisms to enhance DAO participation.
 
-9. [Risk Management](#risk-management)  
+9. [Risk Management](#9-risk-management)  
    - Strategies to mitigate risks:  
      - Diversification of RWA providers.  
      - Maintaining collateralization ratios for the stablecoin.  
      - Transparent DAO governance for strategic decision-making.  
    - Regulatory considerations for stablecoin compliance.
 
-10. [Conclusion](#conclusion)  
+10. [Conclusion](#10-conclusion)  
     - Summary of the vault’s value to investors and its scalable ecosystem.  
     - Vision for revolutionizing DeFi with RWA-backed stablecoins and DAO governance.  
     - Call to action for investors to participate in the vault and DAO ecosystem.
