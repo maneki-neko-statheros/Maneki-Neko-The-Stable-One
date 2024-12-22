@@ -314,7 +314,7 @@ Partnerships and integrations are vital for the ecosystem's success, enabling th
 
 The ecosystem collaborates with leading RWA token providers to ensure a diverse and stable asset base. These tokens represent tangible, verifiable assets, providing a solid foundation for the vault and stablecoin.
 
-- **Current Partners**:
+- **RWA Partners**:
   - **Paxos (PAXG)**: Gold-backed tokens with high liquidity and trust.
   - **Novem Gold Token (NNN)**: Securely backed gold tokens.
   - **Tether Gold (XAUT)**: Popular token offering exposure to gold markets.
@@ -326,25 +326,47 @@ The ecosystem collaborates with leading RWA token providers to ensure a diverse 
 
 ## **DeFi Integration Platforms**
 
-The vault integrates with leading DeFi platforms to optimize the deployment of stablecoins for additional yield generation. These platforms provide liquidity pools, lending markets, and stablecoin strategies to ensure competitive returns for users.
+The vault integrates with both established and emerging DeFi platforms to optimize the deployment of stablecoins for yield generation and liquidity management. These platforms enable lending, liquidity provision, and automated strategies, ensuring competitive returns and seamless scalability.
+
+### **Permissioned Platforms**
+These platforms require governance approval or specific strategies to integrate custom stablecoins:
 
 - **Curve Finance**:  
-  - Focus on liquidity pools for stablecoin pairs, enabling low-slippage swaps and stable yield generation.
-  
+  - Focus on stablecoin liquidity pools, enabling low-slippage swaps and yield generation through trading fees and token incentives.
+  - Example: Participate in pools like **3pool (USDT/USDC/DAI)** to earn CRV token rewards and trading fees.
+
 - **Aave**:  
-  - Lending markets for stablecoins, offering consistent returns through interest earned on lent assets.
-  
-- **Compound**:  
-  - Stablecoin deposits for reliable lending yields, with a focus on safety and scalability.
+  - Offers lending markets for stablecoins, providing consistent returns via interest paid by borrowers.
+  - Example: Deposit custom stablecoins into lending pools to earn APY while maintaining liquidity flexibility.
+
+- **Yearn Finance**:  
+  - Automates yield generation by reallocating stablecoins to the most profitable opportunities.
+  - Example: Deposit stablecoins into Yearn Vaults to benefit from automated optimization and compounding.
+
+### **Permissionless and Emerging Platforms**
+These platforms allow for easier or permissionless integration of custom stablecoins:
+
+- **Balancer**:  
+  - Supports the creation of custom liquidity pools, enabling users to deploy new stablecoins without prior approval.
+  - Example: Establish a **CustomStable/USDC pool** to earn trading fees and BAL incentives.
+
+- **Liquity**:  
+  - A permissionless lending and stablecoin protocol enabling decentralized issuance and use of stablecoins.
+  - Example: Explore opportunities to integrate custom stablecoins within Liquity’s decentralized architecture.
+
+- **dForce**:  
+  - Offers an Omni Stablecoin Infrastructure for permissionless liquidity management and stablecoin deployment.
+  - Example: Leverage dForce’s interoperability to integrate custom stablecoins into DeFi applications.
+
+### **Conclusion**
+By leveraging both established and permissionless DeFi platforms, the vault ensures robust integration pathways for custom stablecoins. This approach maximizes liquidity, yield generation, and adoption within the broader DeFi ecosystem, while maintaining flexibility to scale alongside emerging protocols.
+
 
 ---
 
 ## **RWA-Focused Platforms**
 
 Partnerships with RWA-focused platforms unlock additional opportunities for tokenizing and leveraging real-world assets, expanding the range of collateral available to the vault.
-
-- **MakerDAO**:  
-  - Leverages RWAs as collateral to mint DAI, enabling integration of traditional assets into DeFi liquidity mechanisms.
   
 - **Centrifuge**:  
   - Provides infrastructure for tokenizing RWAs, such as real estate and invoices, creating new opportunities for vault expansion.
@@ -366,3 +388,5 @@ Partnerships with RWA-focused platforms unlock additional opportunities for toke
    Partnerships with RWA-focused platforms open new avenues for generating returns, benefiting all participants.
 
 By leveraging these strategic partnerships, the ecosystem delivers a comprehensive solution that bridges traditional assets with the innovative capabilities of decentralized finance.
+
+
