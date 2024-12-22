@@ -34,7 +34,7 @@ The integration of RWAs into DeFi bridges the gap between traditional finance an
 ## **The Role of the RWA Vault**
 
 The RWA Vault serves as the backbone for leveraging tokenized real-world assets in DeFi. Its primary functions are:
-1. **Custody and Collateralization**: Securely holding RWA-backed gold tokens such as PAXG, NNN, Digix, tokenized real estate, or tokenized commodities in a transparent, decentralized manner.
+1. **Custody and Collateralization**: Securely holding RWA-backed gold tokens such as PAXG, NNN, XAUT (Tether Gold) tokenized real estate, or tokenized commodities in a transparent, decentralized manner.
 2. **Yield Generation**: Deploying assets to generate returns through appreciation, income streams, or DeFi integrations.
 3. **Stablecoin Issuance**: Minting a custom stablecoin collateralized by the RWAs stored in the vault, providing users with a liquid and stable asset.
 
@@ -55,3 +55,117 @@ At the heart of the RWA Vault strategy is the issuance of a **custom stablecoin*
 
 By integrating RWAs into a secure and yield-generating ecosystem, the RWA Vault and its custom stablecoin represent a transformative step toward bridging traditional assets with decentralized finance.
 
+# 3. How the Vault Works
+
+## **Overview of the Vault’s Mechanism**
+
+The RWA Vault is the foundation of this decentralized financial ecosystem, designed to securely manage real-world asset (RWA) tokens and generate sustainable yields. Its operation consists of three core components:
+
+### **1. Accepting Deposits of RWA-Backed Tokens**
+The vault accepts deposits of tokenized real-world assets such as:
+- **Gold Tokens**: E.g., PAXG, NNN, XAUT (Tether Gold).
+- **Real Estate Tokens**: E.g., tokenized shares of real estate through platforms like RealT.
+- **Other RWAs**: Tokenized commodities, invoices, or diamond tokens.
+
+These deposits are securely stored in the vault, which operates transparently on the blockchain. Each tokenized RWA represents a fully collateralized and verifiable claim to its underlying asset, ensuring trust and security for depositors.
+
+---
+
+### **2. Minting a Custom Stablecoin**
+DAO mints a **custom stablecoin** by locking RWA-backed tokens as collateral in the vault. Key features of the stablecoin include:
+- **1:1,2 Collateralization**: Each stablecoin is backed by at least **120 % or more of its USD vaule** in real-world assets stored in the vault, ensuring its value is stable and reliable.
+
+This stablecoin serves as a liquid and deployable digital asset, enabling users to access DeFi opportunities without losing exposure to their RWAs.
+
+---
+
+
+# 3. How the Vault Works
+
+The **RWA Vault** is designed to offer investors a stable and transparent way to generate yield by leveraging tokenized real-world assets (RWAs). The vault enables contributors to deposit supported RWA tokens, earn interest, and optionally in DeFi strategies for further yield opportunities in decentralized finance (DeFi) protocols.
+
+---
+
+## **1. Depositing into Vaults**
+
+Investors can deposit tokenized RWAs, such as gold-backed tokens, into the decentralized vault. These deposits serve as collateral for generating yield and minting stablecoins. 
+
+### **Supported Assets**
+- **Initially Supported**:
+  - Gold-backed tokens such as **NNN**, **PAXG** and XAUT**.
+- **Future Expansions**:
+  - Additional RWA tokens, including **silver tokens**, **real estate tokens**, and **diamond tokens**.
+
+### **Interest Payments**
+- Contributors earn interest on their deposited RWA tokens, paid in **USD Stable Tokens**.
+- Interest rates are derived from:
+  - Vault activity yields.
+  - DeFi strategies deployed using the minted stablecoins.
+
+---
+
+## **2. Generating Yield**
+
+### **Primary Yield Sources**
+1. **Vault Yield**:
+   - RWAs generate income through asset appreciation (e.g., gold price increases) and income streams (e.g., rents from tokenized real estate).
+   - Vault contributors earn a base yield of **10% APY** on deposited assets.
+
+2. **DeFi Yield**:
+   - Minted stablecoins are pooled into DeFi protocols such as lending platforms and liquidity pools, generating additional returns.
+   - Stablecoin deployment yields range from **5% to 15% APY**, depending on the chosen DeFi strategy.
+
+---
+
+## **ROI Examples for Investors**
+
+### **Assumptions**
+1. **RWA Vault Composition**:
+   - Assets: Gold-backed tokens.
+   - Vault yield: **10% APY** from fees, lending, and liquidity.
+   
+2. **Stablecoin Deployment**:
+   - Minted stablecoins generate additional yield of **5%–15% APY**, depending on the strategy.
+
+3. **Investor Fees**:
+   - Participation fee: **0.5% redemption fee** when withdrawing RWAs.
+
+---
+
+### **Scenario 1: Conservative Investor**
+
+- **Investment**: $10,000 in gold-backed tokens deposited into the vault.
+- **Vault Yield**: **10% APY**.
+  - Annual Return: $1,000.
+- **Redemption Fee**: **0.5%** on withdrawal of RWAs.
+- **Net ROI (after fees)**:  
+  **9.5% APY** ($950/year).
+
+---
+
+### **Scenario 2: Yield Maximizers**
+
+- **Investment**: $10,000 in gold-backed tokens deposited into the vault.
+- **DAO Stablecoin Minting**: $8,000 worth of stablecoins (125% collateralized).
+- **Stablecoin Deployment Yield**: **10% APY** ($800 annual return).
+- **Vault Yield**: **10% APY on gold tokens** ($1,000 annual return).
+
+#### **Fee Deductions**
+- **DeFi Strategy Creation Fees (Vault Owner)**: **5%** of deployed stablecoin yield.
+- **Redemption Fee**: **0.5%** on withdrawal of RWAs.
+
+#### **Net ROI (after fees)**:
+**10% (Vault Yield) + 10% (Stablecoin Yield) - 5% (Fees) - 0.5% (Redemption)** = **14.5% APY**  
+**Annual Return**: $1000 + $800 - $40 - $50 = $1,710.
+
+
+---
+
+## **Summary**
+
+The RWA Vault offers a flexible and dual-yield model:
+1. **Base Yield**: Earn stable returns by simply holding RWAs in the vault.
+2. **Enhanced Yield**: Maximize returns by participating in stablecoin DeFi strategies.
+
+By combining secure, collateralized real-world assets with high-yield DeFi protocols, the RWA Vault provides investors with a robust and diversified income stream. This system is ideal for both conservative investors seeking stability and yield maximizers leveraging advanced DeFi strategies.
+```
