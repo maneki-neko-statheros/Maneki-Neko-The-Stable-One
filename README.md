@@ -19,7 +19,7 @@ This meme beased fun and innovative project aims to provide decentralized, diver
 - Anyone can deposit supported RWA tokens into decentralized vaults. 
 - Initially supported assets include:
   - **Gold-backed tokens** like NNN, PaxGold, and Digix.
-  - Later iterations (v2, v3) will include other RWA tokens like NXAG (silver tokens), NPT (real estate tokens), diamond tokens, etc.
+  - Later iterations (v2, v3) will include other RWA tokens, example: silver token, real estate tokens, diamond tokens, etc.
 - Vault contributors receive interest paid in **USD Stable Tokens**, which are minted against the RWA assets.
 
 ### 2. **Generating Yield**
