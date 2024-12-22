@@ -244,3 +244,63 @@ The RWA Vault offers a flexible and dual-yield model:
 
 By combining secure, collateralized real-world assets with high-yield DeFi protocols, the RWA Vault provides investors with a robust and diversified income stream. This system is ideal for both conservative investors seeking stability and yield maximizers leveraging advanced DeFi strategies.
 
+# 5. Utility Token for DAO Governance
+
+## **Overview of Governance Token**
+
+The governance token is the cornerstone of decentralized decision-making within the DAO. It empowers holders to actively participate in shaping the direction of the vault and stablecoin ecosystem. Token holders can vote on critical proposals such as:
+- Asset allocation strategies for the vault.
+- Stablecoin deployment and yield strategies.
+- Budget approvals for marketing, development, and community initiatives.
+
+By distributing decision-making power across a broad base of contributors, the governance token ensures the ecosystem remains decentralized and responsive to community needs.
+
+---
+
+## **Utility of the Governance Token**
+
+### **Voting Rights**
+Holders of the governance token have voting rights to influence:
+- Strategic initiatives, such as onboarding new RWA token providers or integrating with DeFi platforms.
+- Adjustments to collateralization ratios, fees, or yield strategies.
+- Allocation of resources for ecosystem growth, including treasury management and partnership development.
+
+### **Task Rewards**
+The governance token is also an incentive mechanism to reward contributors who perform tasks that benefit the ecosystem. Examples of such tasks include:
+- Developing smart contracts or improving vault infrastructure.
+- Conducting marketing campaigns to attract new users or partners.
+- Managing community engagement and fostering partnerships.
+
+---
+
+## **Reputation Points (RP)**
+
+To ensure fair and balanced governance, the DAO implements a **Reputation Points (RP)** system alongside the governance token. RP reflects a participant's contribution to the ecosystem and incentivizes meaningful involvement.
+
+### **Key Features of RP**
+1. **Contribution-Based Ranking**:  
+   DAO participants earn RP based on their active involvement in tasks and governance. Higher RP indicates greater contributions to the ecosystem.
+
+2. **Voting Power Formula**:  
+   Voting power is calculated as:  
+   **Voting Power = √(Governance Token Holdings) * RP**  
+   This formula balances influence, preventing large token holders from monopolizing decisions while amplifying the voices of active contributors.
+
+3. **Anti-Whale Mechanism**:  
+   The inclusion of RP ensures that participants who consistently contribute to the ecosystem have a meaningful say in decision-making, regardless of their token holdings.
+
+---
+
+## **Benefits of the Governance System**
+
+1. **Decentralized Decision-Making**:  
+   The governance token and RP system ensure that strategic decisions reflect the collective wisdom of the community.
+
+2. **Fair and Balanced Influence**:  
+   The combination of token holdings and RP encourages active participation and prevents centralized control.
+
+3. **Incentivized Contribution**:  
+   Rewards for meaningful participation create a virtuous cycle of engagement, innovation, and growth within the ecosystem.
+
+By aligning governance with participation, the DAO creates a fair and transparent decision-making process that supports sustainable ecosystem development.
+
